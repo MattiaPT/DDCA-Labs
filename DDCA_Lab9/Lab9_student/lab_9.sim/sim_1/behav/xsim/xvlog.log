@@ -1,0 +1,17 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mattia/Downloads/Handout-Files/Lab9_student/DataMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mattia/Downloads/Handout-Files/Lab9_student/InstructionMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mattia/Downloads/Handout-Files/Lab9_student/MIPS.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MIPS
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mattia/Downloads/Handout-Files/Lab9_student/ControlUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mattia/Downloads/Handout-Files/Lab9_student/RegisterFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mattia/Downloads/Handout-Files/Lab9_student/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mattia/Downloads/Handout-Files/Lab9_student/reg_half_synthmodel.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_half
+INFO: [VRFC 10-311] analyzing module reg_half_dist_mem_gen_v4_1_xst_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/mattia/Downloads/Handout-Files/Lab9_student/MIPS_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MIPS_test

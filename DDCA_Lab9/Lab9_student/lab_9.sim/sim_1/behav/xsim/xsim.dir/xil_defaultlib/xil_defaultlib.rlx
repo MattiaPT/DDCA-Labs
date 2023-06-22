@@ -1,0 +1,13 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/home/mattia/Downloads/Handout-Files/Lab9_student/ALU.v,1684941077,verilog,,/home/mattia/Downloads/Handout-Files/Lab9_student/reg_half_synthmodel.v,,ALU,,,,,,,,
+/home/mattia/Downloads/Handout-Files/Lab9_student/ControlUnit.v,1643059660,verilog,,/home/mattia/Downloads/Handout-Files/Lab9_student/RegisterFile.v,,ControlUnit,,,,,,,,
+/home/mattia/Downloads/Handout-Files/Lab9_student/DataMemory.v,1643059660,verilog,,/home/mattia/Downloads/Handout-Files/Lab9_student/InstructionMemory.v,,DataMemory,,,,,,,,
+/home/mattia/Downloads/Handout-Files/Lab9_student/InstructionMemory.v,1643059660,verilog,,/home/mattia/Downloads/Handout-Files/Lab9_student/MIPS.v,,InstructionMemory,,,,,,,,
+/home/mattia/Downloads/Handout-Files/Lab9_student/MIPS.v,1684939892,verilog,,/home/mattia/Downloads/Handout-Files/Lab9_student/ControlUnit.v,,MIPS,,,,,,,,
+/home/mattia/Downloads/Handout-Files/Lab9_student/MIPS_test.v,1643059660,verilog,,,,MIPS_test,,,,,,,,
+/home/mattia/Downloads/Handout-Files/Lab9_student/RegisterFile.v,1643059660,verilog,,/home/mattia/Downloads/Handout-Files/Lab9_student/ALU.v,,RegisterFile,,,,,,,,
+/home/mattia/Downloads/Handout-Files/Lab9_student/lab_9.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+/home/mattia/Downloads/Handout-Files/Lab9_student/reg_half_synthmodel.v,1643059660,verilog,,/home/mattia/Downloads/Handout-Files/Lab9_student/MIPS_test.v,,reg_half;reg_half_dist_mem_gen_v4_1_xst_1,,,,,,,,

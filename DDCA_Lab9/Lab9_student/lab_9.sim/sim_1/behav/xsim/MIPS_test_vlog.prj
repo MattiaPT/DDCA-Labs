@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../DataMemory.v" \
+"../../../../InstructionMemory.v" \
+"../../../../MIPS.v" \
+"../../../../ControlUnit.v" \
+"../../../../RegisterFile.v" \
+"../../../../ALU.v" \
+"../../../../reg_half_synthmodel.v" \
+"../../../../MIPS_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
